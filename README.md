@@ -16,3 +16,7 @@ Our project started from scratch and includes 5 main stages of implementation:
 
 Credit for the idea of no-slip billiards goes to Dr. Christopher Cox and Dr. Renato Feres (see link below for their paper).
 https://arxiv.org/abs/1602.01490
+
+This class was led by Dr. Christopher Cox, Tarleton State University.
+
+Author: Jurgen Xhafaj
